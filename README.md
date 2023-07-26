@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YAndrii27
 - 👀 I’m interested in Web and Software Development
-- 🌱 I’m currently learning Rust, C/C++ and Java
+- 🌱 I’m currently learning TypeScript + Node.JS environment 
 
 <!---
 YAndrii27/YAndrii27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
