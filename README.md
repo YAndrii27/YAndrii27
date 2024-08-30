@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Andrii (or you can also refer to me as Adrew).
-- 👀 I’m interested in Software Development and actively looking for opportunity to show my skills.
-- 📚 I know Python, Javascript/TypeScript and actively learning Java
+- Hi, I’m Andrii (or you can also refer to me as Andrew).
+- I'm 19 years old.
+- I monstly use Python and Javascript/TypeScript. I also know some Java and Kotlin.
