@@ -1,3 +1,18 @@
-- Hi, I’m Andrii (or you can also refer to me as Andrew).
-- I'm 20 years old.
-- I monstly use Python and Javascript/TypeScript. I also know some Java and Kotlin.
+Hi! I’m Andrii/Andrew/André.  
+I'm curius and passionate programmer.  
+List of languages/framework/libraries I used includes following:
+- Python
+- Django framework
+- Flask framework
+---  
+- Java
+---  
+- JavaScript/TypeScript
+- Next.JS
+- React.JS
+- Nest.JS
+- Espress.JS
+---
+- C#
+- .NET framework
+- ASP.NET framework
